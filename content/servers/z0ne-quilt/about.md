@@ -19,6 +19,10 @@ top = false
 The URL to the exported Zip file is {{ copy_link(url="https://z0ne.z0ne.earth/games/z0ne-quilt.zip") }}. The zip can be imported in MultiMC, PolyMC and [PrismLauncher](https://prismlauncher.org/).
 My personal recommendation is the latter.
 
+### Multi Player
+
+Join the official server at `mc.z0ne.games`!
+
 ## Highlights
 
 Quilt, a fork of Fabric, is the newest trend for Minecraft modding. 
