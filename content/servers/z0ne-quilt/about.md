@@ -26,7 +26,7 @@ Some very exciting mods are included, some even known from Minecraft Forge.
 
 ### Low Tech
 
-_Auto Workstations_, _Expanded Storage_ and _Tom's Storage Mod_ allow creating rather early storage systems and automations.
+_Auto Workstations_, _Compact Storage_ and _Tom's Storage Mod_ allow creating rather early storage systems and automations.
 
 ### Electric
 
@@ -67,8 +67,6 @@ You hear those animals in the back? Me neither, thanks to _Extreme Sound Muffler
 _Open Parties and Claims_ lets you create your own parties and claim chunks in the game.
 
 _Vein Mining_ adds the same named enchantment, so that you can start vein mining in the game.
-
-Thanks to _Pack it Up_, you have backpacks in the game. They are even upgradable!
 
 ### Aesthetics
 
