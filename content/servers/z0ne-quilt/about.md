@@ -44,7 +44,7 @@ Enjoy the scenary on a nice ~~train~~ cart ride on _Diamond Rails_!
 
 One of the all time classics is _Botania_, the flower mod. Also adds various flowers for a nicer ambiance.
 
-Get more out of your crops with _Croparia_ and Stemaria_. With these mods you can optimize your farms, and even grow ores and more!
+Get more out of your crops with _Croparia_ and _Stemaria_. With these mods you can optimize your farms, and even grow ores and more!
 
 _Sync_ allows you to create clones of yourself, and magically switch between them using the sync stations.
 
