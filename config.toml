@@ -1,0 +1,79 @@
+theme = "adidoks"
+compile_sass = true
+minify_html = true
+
+base_url = "https://mc.z0ne.games"
+title = "minecraft@z0ne.games"
+description = "Minecraft servers for z0ne.games"
+default_language = "en"
+
+build_search_index = true
+generate_feed = true
+
+taxonomies = [
+  {name = "authors"},
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "railsbase16-green-screen-dark"
+render_emoji = true
+external_links_target_blank = true
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = true
+
+
+[search]
+include_title = true
+include_description = true
+include_path = false
+include_content = true
+# truncate_content_length = 100
+index_format = "elasticlunr_javascript"
+
+
+[extra]
+author = "Kura"
+language_code = "en-US"
+
+theme_color = "#fff"
+
+title_separator = "$"  # set as |, -, _, etc
+title_addition = ""
+
+timeformat = "%B %e, %Y"
+timezone = "Europe/Berlin"
+
+edit_page = true
+docs_repo = "https://github.com/z0ne-dev/web-mc.z0ne.games"
+repo_branch = "trunk"
+
+math = true
+library = "mathjax"
+
+[extra.open]
+enable = false
+
+# Menu items
+[[extra.menu.main]]
+name = "Servers"
+section = "servers"
+url = "/servers/"
+weight = 10
+
+
+[[extra.menu.social]]
+name = "Fediverse"
+pre = '<svg version="1.1" width="20" height="20" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><g fill-rule="nonzero"><path d="m233 95-233 134.08v53.846l186.08-107.15v214.85l46.924 26.385v-322zm46 0v53.846l186.62 107.15-186.62 107.69v53.308l233-134.08v-53.846l-233-134.08zm0 107v107l93-53.769-93-53.231zm-140 54-93 54 93 54v-108z"/></g></svg>'
+url = "https://z0ne.social/@kura"
+weight = 10
+
+# Footer contents
+[extra.footer]
+info = 'Powered by <a href="https://www.getzola.org/">Zola</a> and <a href="https://github.com/aaranxu/adidoks">AdiDoks</a>'
+
+[[extra.footer.nav]]
+name = "Privacy"
+url = "/privacy-policy/"
+weight = 10
